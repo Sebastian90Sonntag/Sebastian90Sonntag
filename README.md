@@ -9,7 +9,7 @@ I retrained as a software developer and haven't looked back since.
 🔭 **Currently building** — MetaCon-PM, a project management tool (Vue3 + TypeScript + REST)  
 🌱 **Currently learning** — Go, Python backends, Docker & Kubernetes  
 💬 **Ask me about** — JavaScript / TypeScript, REST APIs, MVC & MVVM patterns, or life after the Bundeswehr  
-📫 **Reach me** — sebastian90sonntag@gmail.com  
+
 
 ---
 
