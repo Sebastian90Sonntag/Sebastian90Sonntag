@@ -10,7 +10,7 @@ After 9 years maintaining mission-critical systems for the German Armed Forces, 
 
 ### Frontend Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue3-42B883?style=flat&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-42B883?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -67,8 +67,6 @@ Demonstrates enterprise backend development best practices:
 - 📖 Swagger/OpenAPI documentation
 - 🗄️ SQLite-ready with InMemory for development
 
-Perfect foundation for scalable REST services.
-
 → [View Repository](https://github.com/Sebastian90Sonntag/CSharp-Restfull-API)
 
 ---
@@ -88,14 +86,27 @@ Demonstrates cutting-edge mobile development patterns:
 
 ---
 
+### Linux DHCP Server Setup — Infrastructure Guide
+**ISC DHCP Server + phpIPAM | Shell | Documentation**
+
+Comprehensive setup guide covering:
+- 🖧 ISC DHCP Server installation & configuration
+- 🌐 phpIPAM Web-Management Interface integration
+- 🔒 Security hardening, SSL/HTTPS, firewall rules
+- 📊 Monitoring, backup strategies & maintenance plans
+
+→ [View Repository](https://github.com/Sebastian90Sonntag/Linux_DHCP_Server_SETUP)
+
+---
+
 ## 📊 Technology Stack Overview
 
 | **Layer** | **Technologies** | **Key Projects** |
 |-----------|-----------------|-----------------|
-| **Frontend** | Vue 3, Flutter, React, Next.js, Angular | MetaCon PM, GDC App, Multiple PWAs |
+| **Frontend** | Vue 3, Flutter, React, Next.js | MetaCon PM, GDC App |
 | **Backend** | PHP 8.1+, C#/.NET 8, Node.js, Python, Go | Nextcloud Plugin, REST APIs, NestJS Services |
 | **Database** | PostgreSQL, SQLite, MySQL, Firestore | Enterprise & Personal Projects |
-| **DevOps** | Docker, Kubernetes, nginx, Linux, CI/CD | Production Deployments, Local Dev Environments |
+| **DevOps** | Docker, Kubernetes, nginx, Linux, CI/CD | Production Deployments, Server Setup Guides |
 | **Quality** | PHPStan, TypeScript strict mode, ESLint, PHPUnit | Type-safe, testable, maintainable code |
 
 ---
