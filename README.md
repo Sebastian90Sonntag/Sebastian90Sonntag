@@ -1,8 +1,8 @@
 # Hi, ich bin Sebastian 👋
 
-Ich bin Fachinformatiker für Anwendungsentwicklung mit Erfahrung in der Softwareentwicklung und der IT-Systemadministration. Mein Schwerpunkt liegt auf der Entwicklung moderner Anwendungen – vom Backend über APIs bis hin zu benutzerfreundlichen Oberflächen.
+Ich bin Fachinformatiker für Anwendungsentwicklung. Mein Schwerpunkt liegt auf der Entwicklung moderner Anwendungen – vom Backend über APIs bis hin zu benutzerfreundlichen Oberflächen.
 
-Schon während meiner Zeit in der IT-Systemadministration hat mich das Entwickeln eigener Lösungen begeistert. Heute arbeite ich gerne an Projekten, bei denen ich technische Herausforderungen analysieren und in sauberen, wartbaren Code umsetzen kann. Dabei lege ich Wert auf eine strukturierte Arbeitsweise, verständlichen Code und kontinuierliche Weiterentwicklung.
+Schon während meiner Zeit als IT-System-Elektroniker hat mich das Entwickeln eigener Lösungen begeistert. Heute arbeite ich gerne an Projekten, bei denen ich technische Herausforderungen analysieren und in sauberen, wartbaren Code umsetzen kann. Dabei lege ich Wert auf eine strukturierte Arbeitsweise, verständlichen Code und kontinuierliche Weiterentwicklung.
 
 ## Technologien
 
@@ -32,12 +32,6 @@ Schon während meiner Zeit in der IT-Systemadministration hat mich das Entwickel
 - Vertiefung meiner Kenntnisse in der Full-Stack-Entwicklung
 - Entwicklung eigener Projekte
 - Ausbau meiner Kenntnisse in Clean Architecture und modernen Softwarearchitekturen
-
-## Ausgewählte Projekte
-
-Hier findest du ausschließlich eigene, öffentlich verfügbare Projekte, an denen ich selbst entwickelt habe.
-
-> Die angepinnten Repositories spiegeln meine aktuellen Kenntnisse und Interessengebiete wider.
 
 ## Ziele
 
